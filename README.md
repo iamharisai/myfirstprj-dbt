@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+Welcome to your new dbt project! This is a hands-on lab from LinkedinLearning course by Mark
 
 ### Using the starter project
 
