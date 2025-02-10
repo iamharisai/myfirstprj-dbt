@@ -1,4 +1,6 @@
-Welcome to your new dbt project! This is a hands-on lab from LinkedinLearning course by Mark
+Welcome to my first dbt project! This is a hands-on lab from LinkedinLearning course by Mark
+
+# NYC Parking Violations
 
 ### Using the starter project
 
